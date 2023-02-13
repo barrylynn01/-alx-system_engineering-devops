@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -type da -print | wc -l
